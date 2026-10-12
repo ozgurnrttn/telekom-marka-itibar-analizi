@@ -1,0 +1,1 @@
+{"n": 150, "dogruluk": 0.787, "kappa": 0.636, "neg_kesinlik": 0.941, "neg_duyarlilik": 0.727, "pos_kesinlik": 0.822, "pos_duyarlilik": 0.685, "net_elle": 21.3, "net_sozluk": 18.7, "cm": [[16, 6, 0], [1, 65, 8], [0, 17, 37]]}
